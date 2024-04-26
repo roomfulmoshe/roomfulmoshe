@@ -42,7 +42,7 @@
 - I am a Full-Stack Developer
 - and, a Finance Enthusiast
 
-### Bit Good in Problem Solving
+###Problem Solving
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=mosheking&theme=dark)](https://github.com/MADHVAN/leetcode-stats)
 
 ## 🔗 Connect with Me
