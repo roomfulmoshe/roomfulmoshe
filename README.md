@@ -43,7 +43,7 @@
 - and, a Finance Enthusiast
 
 ### Bit Good in Problem Solving
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=MADHVAN&theme=dark)](https://github.com/MADHVAN/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=mosheking&theme=dark)](https://github.com/MADHVAN/leetcode-stats)
 
 ## 🔗 Connect with Me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mosheshtaygrudautomation/)
