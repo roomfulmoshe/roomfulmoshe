@@ -38,7 +38,7 @@
     
 ## 🚀 About Me:
 
-- I am a CS Undergrad in my senior year.
+- I am a CS 2024 graduate from CUNY Queens College.
 - I am a Full-Stack Developer
 - and, a Finance Enthusiast
 
