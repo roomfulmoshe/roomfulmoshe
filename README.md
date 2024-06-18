@@ -43,8 +43,6 @@
 - and, a Finance Enthusiast
 
 ### Problem Solving
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=mosheking&theme=dark)](https://github.com/MADHVAN/leetcode-stats)
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mosheking?theme=light&font=Bubblegum%20Sans&ext=heatmap)
 
 
