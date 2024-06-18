@@ -45,6 +45,10 @@
 ### Problem Solving
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=mosheking&theme=dark)](https://github.com/MADHVAN/leetcode-stats)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/mosheking?theme=light&font=Bubblegum%20Sans&ext=heatmap)
+
+
+
 ## 🔗 Connect with Me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mosheshtaygrudautomation/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mshtaygrud@gmail.com?subject=Contact%20From%20Github)
