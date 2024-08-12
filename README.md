@@ -1,12 +1,6 @@
 # Hi, I'm Moshe! 👋🏻
 
 [![Portfolio](https://img.shields.io/badge/🌟_My_Portfolio-FF6C37?style=for-the-badge&logo=netlify&logoColor=white)](https://roomfulmoshe.github.io/MoshePortfolio)
-(Ctrl+Click or Cmd+Click to open in a new tab)
-
-## Interests
-  - Financial Engineering
-  - Web Development
-  - Automation
 
 ## My Skill-Set
 
@@ -45,6 +39,11 @@
 - I am a CS 2024 graduate from CUNY Queens College.
 - I am a Full-Stack Developer
 - and, a Finance Enthusiast
+
+## Interests
+  - Financial Engineering
+  - Web Development
+  - Automation
 
 ### Problem Solving
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mosheking?theme=light&font=Bubblegum%20Sans&ext=heatmap)
